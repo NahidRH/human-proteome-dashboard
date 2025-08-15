@@ -37,7 +37,7 @@ This interactive dashboard enables users to visually explore protein attributes 
 ## 🧬 Data Source
 
 - Human proteome dataset from [UniProt](https://www.uniprot.org/)
-- Dataset originally prepared and cleaned in the [`eda-human-proteome`](https://github.com/NahidRH/eda-human-proteome) project
+- Dataset originally prepared and cleaned in the [`eda-human-proteome`](https://github.com/NahidRH/EDA_human_proteome) project
 
 ---
 
@@ -56,5 +56,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🔗 Related Projects
 
-- [`eda-human-proteome`](https://github.com/NahidRH/eda-human-proteome): Exploratory data analysis of the human proteome using Python and Pandas.
+- [`eda-human-proteome`](https://github.com/NahidRH/EDA_human_proteome): Exploratory data analysis of the human proteome using Python and Pandas.
 
