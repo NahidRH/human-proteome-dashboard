@@ -29,7 +29,7 @@ This interactive dashboard enables users to visually explore protein attributes 
 | File                          | Description                          |
 |-------------------------------|--------------------------------------|
 | `ProteinDashboard.pbix`       | Main dashboard file (Power BI)       |
-| `sample_data.csv`             | Sample of the original UniProt data  |
+| `sample_uniprot_100.tsv`             | Sample of the original UniProt data  |
 | `screenshots/`                | Dashboard screenshots                |
 
 ---
