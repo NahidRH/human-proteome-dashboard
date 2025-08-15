@@ -1,7 +1,7 @@
 # Human Proteome Dashboard
 
 **Dashboard for exploring human protein data with Power BI.**  
-Built on top of the EDA from the [`eda-human-proteome`](https://github.com/NahidRH/eda-human-proteome) project.
+Built on top of the EDA from the [`eda-human-proteome`](https://github.com/NahidRH/EDA_human_proteome) project.
 
 This interactive dashboard enables users to visually explore protein attributes such as mass, sequence length, subcellular location, and functional keywords — based on UniProt's human proteome dataset.
 
